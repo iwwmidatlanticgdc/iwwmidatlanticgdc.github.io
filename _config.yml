@@ -3,7 +3,7 @@
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 # If you are building a simple GitHub user page (username.github.io) then use these settings:
-url: "http://cleiww.org"
+url: "http://iwwmidatlanticgdc.github.io"
 baseurl: ""
 
 # GH Pages upgraded to Jekyll 3
@@ -16,10 +16,10 @@ gems: [jekyll-paginate]
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: "Industrial Workers of the World "
+title: "IWW Mid-Atlantic GDC"
 
 # Short description of your site
-description: The home of the Northeast Ohio IWW.
+description: The home of the Mid-Atlantic GDC.
 
 # --- Navigation bar options --- #
 
@@ -31,28 +31,25 @@ avatar: "/img/globe.png"
 navbar-links:
   Home: ""
   About Us: "aboutus/index.html"
-  Events: "https://www.facebook.com/clevelandiww/events?ref=page_internal"
+  Events: "https://www.facebook.com/pg/MidAtlanticGDC/events/?ref=page_internal"
   Contact Us: "contactus/index.html"
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Northeast Ohio GMB
-  email: "cleveland@iww.org"
-  facebook: pages/Northeast-Ohio-IWW/208833699170667 # eg. daattali
-  github: yourname    # eg. daattali
-  twitter: clevelandiww   # eg. daattali
-  linkedin: yourlink  # eg. "pub/dean-attali/8/946/143"
-  stackoverflow: yourlink  # eg. "3943160/daattali"
+  name: IWW Mid-Atlantic GDC
+  email: "iwwmidatlanticgdc@protonmail.com"
+  github: iwwmidatlanticgdc    # eg. daattali
+  twitter: @_midatlanticgdc   # eg. daattali
  
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: true
+  facebook: false
   email: true
   twitter: true
-  github: false
+  github: true
   linkedin: false
   stackoverflow: false
 
@@ -66,7 +63,6 @@ footer-links-active:
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: UA-99112290-1
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
