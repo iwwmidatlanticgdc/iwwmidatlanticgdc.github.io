@@ -40,8 +40,8 @@ navbar-links:
 author:
   name: IWW Mid-Atlantic GDC
   email: "iwwmidatlanticgdc@protonmail.com"
-  github: @iwwmidatlanticgdc    # eg. daattali
-  twitter: @_midatlanticgdc   # eg. daattali
+  github: "@iwwmidatlanticgdc"    # eg. daattali
+  twitter: "@_midatlanticgdc"   # eg. daattali
  
 # Select which links to show in the footer
 footer-links-active:
